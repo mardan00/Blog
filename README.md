@@ -1,7 +1,7 @@
 ###博客
 - 地址:[www.mardan0.cc](http://www.mardan0.cc)  
 - 建立日期: 2016-07-2016-07-2  
-![image](https://github.com/mardan00/Blog/images/introduce.png)
+![image](https://github.com/mardan00/Blog/images/reduce.png)
 
 
 ### 所用工具
