@@ -26,3 +26,19 @@ sitemap: false
 @import "animations";
 @import "dl-menu";
 @import "page";
+
+//扩展--表格样式
+table{
+	border-width: 1px;
+	border-color: #666666;
+	border-collapse: collapse;
+	th {
+		padding: 8px;
+		background-color: #dedede;
+		border: 1px solid #666666;
+	}
+	td {
+		padding: 8px;
+		border: 1px solid #666666;
+	}
+}
