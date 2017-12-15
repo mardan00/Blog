@@ -1,5 +1,4 @@
 ###博客
-- 地址:[www.mardan0.cc](http://www.mardan0.cc)  
 - 建立日期: 2016-07-26
 ![image](https://github.com/mardan00/Blog/blob/master/images/reduce.png)
 
@@ -10,3 +9,7 @@
 - **Web服务器**: nginx
 - **生成工具**：jekyll
 - **导入jekyll主题**：hpstr
+
+### 更新
+- 改用WordPress
+- 新地址:[www.mardan0.cc](http://139.199.163.137/)
